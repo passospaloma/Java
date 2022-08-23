@@ -1,11 +1,6 @@
 /*
- Name: Paloma Passos Vieira dos Santos Student Number: 100370953
- Name: Christine Jane Pablo Student Number: 100369675
- Name: Gurleen Kaur  Student Number: 100381823
-
- Course: CPSC1150        Section 3
+ Name: Paloma Passos 
  Date: OCTOBER 07th 2021
- Instructor: Brian Green
  Purpose: This program compute the total number 
  Input:   Number 
  Output:  The total number
