@@ -1,8 +1,6 @@
 /*
- Name: Paloma Passos Vieira dos Santos Student Number: 100370953
- Course: CPSC1150        Section 3
+ Name: Paloma Passos 
  Date: OCTOBER 21th 2021
- Instructor: Brian Green
 */
 
 import java.util.*;
