@@ -1,5 +1,5 @@
 /**
- class CollegeDatabase
+ class CompanyDatabase
  * */
 public class CompanyDatabase {
     //main method
