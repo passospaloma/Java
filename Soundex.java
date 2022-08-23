@@ -17,7 +17,6 @@ public class Soundex {
 
     //main method
 	public static void main(String[] args) {
-		printIdentification();
 		interactiveMenu();
 	}
 
