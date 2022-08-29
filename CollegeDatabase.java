@@ -1,5 +1,9 @@
 /**
-Author: Paloma Passos
+/*
+ *Program Name: CollegeDatabase.java
+ *Author: Paloma Passos 
+ *Date: March 25, 2022
+ */
  class CompanyDatabase
  * */
 public class CompanyDatabase {
