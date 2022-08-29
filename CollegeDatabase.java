@@ -1,4 +1,5 @@
 /**
+Author: Paloma Passos
  class CompanyDatabase
  * */
 public class CompanyDatabase {
