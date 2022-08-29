@@ -1,14 +1,10 @@
-package lab9;
-
 /*
-Name: Paloma Passos Vieira dos Santos Student Number: 100370953
-Course: CPSC1150        Section 3
+Name: Paloma Passos
 Date: NOVEMBER 25th 2021
-Instructor: Brian Green
 */
 import java.util.*;
 
-public class lab9 {
+public class Sort {
 	static int size;
 
 	public static void main(String[] args) {
