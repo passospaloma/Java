@@ -1,3 +1,8 @@
+/*
+ *Program Name: DisplayCalendar.java
+ *Author: Paloma Passos 
+ *Date: April 1, 2022
+ */
 import java.util.Scanner;
 
 public class DisplayDayOfWeek {
