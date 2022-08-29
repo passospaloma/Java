@@ -1,14 +1,12 @@
 /*
  *Program Name: SortThreeNumbers.java
- *Author: Paloma Passos Vieira dos Santos 
+ *Author: Paloma Passos
  *Date: January 28, 2022
- *Course: CPSC 1150 – W01
- *Instructor: Leon Pan
-*/
+ //Purpose: to get 3 numbers and put in order from the smallest to the largest
+ */
 
 import java.util.Scanner;
 
-//Purpose: to get 3 numbers and put in order from the smallest to the largest
 public class SortThreeNumbers {
 
 	// main method
