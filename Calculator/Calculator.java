@@ -1,14 +1,12 @@
-import java.util.Arrays;
-
 /**
- * Simple line-oriented calculator program. The class can also be used to create
+Author: Paloma Passos
+purpose: Simple line-oriented calculator program. The class can also be used to create
  * other calculator programs as it has methods to provide calculation like add,
  * subtract, multiply, divide, remainder and average using two parameters to
- * return a result.
- *
- * @author Chris Schmidt
- * 
- */
+ * return a result. 
+*/
+import java.util.Arrays;
+
 public class Calculator {
 	/**
 	 * This method is used to return a remainder of a number.
