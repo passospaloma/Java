@@ -2,13 +2,11 @@
  *Program Name: ValidadeTriangle.java
  *Author: Paloma Passos Vieira dos Santos 
  *Date: January 28, 2022
- *Course: CPSC 1150 – W01
- *Instructor: Leon Pan
-*/
+ */
 
 import java.util.Scanner;
 
-//Purpose: To calculate the edges and check if it is a triangle
+//class ValidateTriangle was created to calculate the edges and check if it is a triangle
 public class ValidateTriangle {
 
 	// main method
