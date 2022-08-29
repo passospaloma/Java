@@ -1,5 +1,5 @@
 /*
-Name: Paloma Passos Vieira dos Santos Student Number: 100370953
+Name: Paloma Passos 
 Purpose: This program was created for the user to input numbers to calculate the triangle area
 Input:   6 numbers to form the 3 points of the triangle
 Output:  the area of the triangle
