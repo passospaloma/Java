@@ -1,3 +1,6 @@
+/**
+Author: Paloma Passos
+*/
 import java.util.Scanner;
 
 public class DaysInMonth {
