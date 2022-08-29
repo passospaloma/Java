@@ -1,6 +1,7 @@
-/**
-Author: Paloma Passos
-*/
+/*
+ *Program Name: DaysInMonth.java
+ *Author: Paloma Passos 
+ */
 import java.util.Scanner;
 
 public class DaysInMonth {
