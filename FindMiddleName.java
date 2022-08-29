@@ -2,10 +2,7 @@
 /*
  *Program Name: FindMiddleName.java
  *Author: Paloma Passos Vieira dos Santos 
- *Date: February 19, 2022
- *Course: CPSC 1150 – W01
- *Instructor: Leon Pan
-*/
+ */
 import java.util.Scanner;
 
 public class FindMiddleName {
