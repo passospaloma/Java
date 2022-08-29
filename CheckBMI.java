@@ -1,10 +1,8 @@
 /*
  *Program Name: CheckBMI.java
- *Author: Paloma Passos Vieira dos Santos 
+ *Author: Paloma Passos 
  *Date: January 28, 2022
- *Course: CPSC 1150 – W01
- *Instructor: Leon Pan
-*/
+ */
 
 import java.util.Scanner;
 //Purpose: To calculate the BMI with the weight and height 
