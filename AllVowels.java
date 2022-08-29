@@ -1,9 +1,7 @@
 /*
  *Program Name: AllVowels.java
- *Author: Paloma Passos Vieira dos Santos 
+ *Author: Paloma Passos 
  *Date: March 1, 2022
- *Course: CPSC 1150 – W01
- *Instructor: Leon Pan
 */
 public class AllVowels {
 	
