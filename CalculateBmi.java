@@ -1,5 +1,5 @@
 /*
-Name: Paloma Passos Vieira dos Santos Student Number: 100370953
+Name: Paloma Passos 
 Purpose: This program was created for the user to input kg and height to calculate the bmi
 Input:   the user kg and height
 Output:  the user bmi 
